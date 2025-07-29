@@ -1,5 +1,5 @@
 # Mini_curso_git
-Mini curso Git 29/07
+Mini curso Git 29/07/25
 # Projeto Anti-`trabalho_final_agora_vai.zip`
 
 ### Um repositório dedicado a nunca mais usar `_v2_final_corrigido` no nome de um arquivo.
